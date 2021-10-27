@@ -23,7 +23,7 @@ namespace DockSiiide.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Bokningar()
         {
             return View();
         }

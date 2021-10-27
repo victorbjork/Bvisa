@@ -978,7 +978,6 @@ C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Raz
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Companies\Edit.cshtml.g.cs
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Companies\Index.cshtml.g.cs
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
@@ -998,3 +997,4 @@ C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Doc
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\ref\DockSiiide.dll
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\DockSiiide.pdb
 C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\DockSiiide.genruntimeconfig.cache
+C:\Users\Victor\source\repos\DockSide\DockSiiide\DockSiiide\obj\Debug\net5.0\Razor\Views\Home\Bokningar.cshtml.g.cs

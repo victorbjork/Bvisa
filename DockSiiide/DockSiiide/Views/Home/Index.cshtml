@@ -1,8 +1,19 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore
+@using DockSiiide.Areas.Identity.Data
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@if (SignInManager.IsSignedIn(User))
+{
+<h1>ANVÄNDAREN ÄR INLOGGAD OCH HÄR SKA BOKNINGSPROCESSEN PRESENTERAS</h1>
+}
+else
+{
+<h1>EJ INLOGGAD UPPMANA TILL ATT LOGGA IN</h1>
+}

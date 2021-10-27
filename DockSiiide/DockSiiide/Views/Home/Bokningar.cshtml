@@ -7,17 +7,17 @@
 
 
 @{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Bokningar";
 }
 <h1>@ViewData["Title"]</h1>
 
 @if (SignInManager.IsSignedIn(User) && await UserManager.IsInRoleAsync(UserManager.GetUserAsync(User).Result, "admin"))
 {
-    <h1>HOLE SHIT THIS IS AN ADMIN</h1>
+    <h1>BEFINTLIGA BOKNINGAR PRESENTERAS</h1>
 }
 else
 {
-    <h1>SAD FACE, Not an admin :(</h1>
+    <h1>VÄNLIGEN LOGGA IN FÖR ATT SE DINA BOKNINGAR</h1>
 }
 
 <p>Use this page to detail your site's privacy policy.</p>
